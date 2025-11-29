@@ -2,3 +2,5 @@ ComicVerse Hub is a responsive web project designed for exploring comic books ac
 It features a hero banner, a dynamic slider showcasing popular comic releases, and interactive publisher navigation.
 The project focuses on providing a visually appealing and organized comic-browsing experience.
 
+
+![Project Home Page](https://github.com/SanviAgarwal/ComicVerse-Hub/blob/main/home%20page.png?raw=true)
